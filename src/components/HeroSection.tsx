@@ -97,7 +97,7 @@ const HeroSection = () => {
               <Mail className="w-6 h-6" />
             </a>
             <a
-              href="#"
+              href="https://github.com/KnoxRyder999"
               className="p-4 rounded-full bg-card/50 backdrop-blur-sm border border-border hover-lift hover:border-primary hover:glow-primary transition-smooth"
             >
               <Github className="w-6 h-6" />
